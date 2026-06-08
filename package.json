@@ -1,0 +1,20 @@
+{
+  "name": "ex-3",
+  "version": "1.0.0",
+  "description": "This agent autonomously scans your Gmail inbox, identifies meeting invitations (both official and free-form), and manages your Google Calendar accordingly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "dotenv": "^17.4.2",
+    "google-auth-library": "^10.6.2",
+    "googleapis": "^173.0.0",
+    "server-destroy": "^1.0.1"
+  }
+}
