@@ -1,0 +1,6 @@
+node_modules/
+token.json
+.env
+*.pdf
+*.docx
+package-lock.json
